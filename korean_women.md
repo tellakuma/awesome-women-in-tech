@@ -53,6 +53,8 @@
 
 | Name | Blog | Description | Location | Social |
 |---|---|---|---|---|
+| 신하영 | https://edustella.github.io/ | women's policy, education divide, social science researcher, chubby food sprite | 서울 |  [![](icons/facebook-icon.png)](https://www.facebook.com/stella.h.shin) [![](icons/twitter-icon.png)](https://twitter.com/stella0593) [![](icons/linkedin-icon.png)](https://www.linkedin.com/in/stella-hayoung-shin/)|
+
 
 
 ## ㅇ
